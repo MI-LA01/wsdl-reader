@@ -1,0 +1,9 @@
+Source: ${package.name}
+Section: webapp 
+Priority: extra 
+Maintainer: MI-LA01 <la01@mediainspection.hk>
+Homepage: http://www.kroknet.com/
+Version: ${package.version}
+Package: ${package.name}
+Architecture: all 
+Description: ${description}
